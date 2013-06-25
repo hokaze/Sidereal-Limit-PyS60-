@@ -1,0 +1,19 @@
+Calibration
+Day
+Descending Water
+Ascending Fire 
+Resplendent Earth
+Ascending Air
+Descending Air
+Ascending Water
+Descending Wood
+Ascending Earth
+Resplendent Fire
+Resplendent Wood
+Descending Earth
+Resplendent Air
+Ascending Wood 
+Descending Fire
+Resplendent Water 
+Night
+Solar Eclipse

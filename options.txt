@@ -1,0 +1,22 @@
+group   action  item
+place   action  group
+person  action  place
+place   action  item
+person  action  person
+group   action  group
+place   action  place
+person  action  item
+group   action  person
+place   action  person
+group   action  place
+person  action  group
+reroll+ inside  place
+reroll+ outside place
+reroll+ before  date
+reroll+ during  date
+reroll+ with    item
+reroll- start	me
+reroll- end	blow-up Gem
+reroll-	start GM
+reroll- end harass Solars
+reroll- end spontaneously combust
